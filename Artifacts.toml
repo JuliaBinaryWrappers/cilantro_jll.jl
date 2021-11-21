@@ -1,0 +1,288 @@
+[[cilantro]]
+arch = "aarch64"
+git-tree-sha1 = "1f2e6706b0b246a731f5bdbe15bb1f2d9478b331"
+os = "macos"
+
+    [[cilantro.download]]
+    sha256 = "1f3ae4eaaf18e6a5c0aa62675d778ef8628cbf877e0efd2fff87648cef57afb3"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[cilantro]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f9eecedf614f118067e7790393e0c375fe9c7c43"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "b5e9db691f6500dec7ceca90b9297f9257ca38997d8c245baf2ea6d4b0906f1d"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[cilantro]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "13c9ca82196e0c74bce870af96dddb4a3e3e1e3f"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "f82ba6e6a2b14317905dc9e8d405ebbb7f4aa45c7799aaa01db11cf3e51cca02"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[cilantro]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b241e3e9694602dbc4220e47a19950fe39637eb"
+libc = "musl"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "72efc8b445eced47312b82995cc7415d601b94068f4a5d1f541a2cbf2a39764e"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[cilantro]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6f7396aaf0ea1cd616fa6d1948f9019dab3c908b"
+libc = "musl"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "b2d65796ed778351e5104d2f83556b58de6f5c384b9ca0fb525e6310b20fed33"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[cilantro]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "013742b6900b8781135977c100b9694cd28f2dec"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "3cb6c656f42b457fcc0f63bb61d1973157aaa5b387967aa38d91a60c63ab9eb8"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[cilantro]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1be2915a324b68ba16d7b837ec17e28eb3229c46"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "cef420a05fa851a57ac0e681387832cb8b2f81ed0baedc7d3c85faa74aaa1640"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[cilantro]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a9eea99cb437f92ca239c725d96ab7b30b095a07"
+libc = "musl"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "8034beb4c54d16665165ed5d1244b63839434acb0de2506b61955cea556e5607"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[cilantro]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "03eb7d4127d8b066ba0c40ffaa2262c97cec31fe"
+libc = "musl"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "3d82eafb6b0ab7f34708307ed2e6454a93e1aa80b862d9fd03038a13f0a59a2c"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[cilantro]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4ff385dd1076d2de100251b406373ceac34eea8e"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "42882105a6833d1b6ba9a733b84c1a0292855814bd8dab7db0c0006ca20732ba"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[cilantro]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "67169b61d3dc8e3fcf325b955d01df0aab1207a5"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "2e6f9b15bdba9f4cf1c885612380ed640a223252ec79b01334ed185b66bf14c7"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[cilantro]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2dd180319a5f02f37b4def8e5647734519b937f9"
+libc = "musl"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "8fe9a09b9c2e88b4092007c1e69dfa58273c3e54145b099bad37bdd7fa7bb4ac"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[cilantro]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e4ed2047c7ae97d32a549b5339aa7b57a5f28b7"
+libc = "musl"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "dac57341625cde420e80193e89d1fc005078a7d2f2e34982232dd8042970d06b"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[cilantro]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3777aa9ccd93784f9097f32f95945008e903f093"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "e2ccd34e6f252ce6388e2352689b90ee2741ccce8d3b257bb40bb366c6389499"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[cilantro]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bb58e050ea3853a1fd0cc84d1409cfeb15d7251a"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "3e8a235e18f30eb6b0814e6eccff857b354c3d04a0ea68e83f609e404930db1f"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[cilantro]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bdc88b6ca311f32f4a1b92d4b620a8352ee0b19d"
+libc = "musl"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "4c85ab66186f07afa5bfd104a31e0bfd192de798fc8fafbd12f9cac5f080c76d"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[cilantro]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec15ac5b093e0ef4c795437d008e02eb5190cf8b"
+libc = "musl"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "6ee85c46bfd735529e6ea4773d9d9a97dfb4d3a89197d45d2be44b147e25d789"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[cilantro]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7b7028d504243714a12e7eeaf42844c07b9c4929"
+os = "windows"
+
+    [[cilantro.download]]
+    sha256 = "10ae3c84b9b5aab2f39af59179f851e9504c8e3b6ccb34450006d260e0bfdb83"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[cilantro]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "008e4198e25f9562a1c52202370ff312fcb54105"
+os = "windows"
+
+    [[cilantro.download]]
+    sha256 = "b9f92c9a7be11ee7c2ac6a2bb97ac6ee9823e8454ba515748ae919f1f68b7b32"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[cilantro]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8adc2b8e90cb4412129140998dda9d470d3322da"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "72ea4531ac958136d635ce40b163523a237187c535cfce948301b854b3656aeb"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[cilantro]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "417cfc636e263c9d9203e426e402c244631da8a3"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "c0b9846ead2f0a7584052be963b78879dd21f2aeedda2d78d31a762b3937cf6c"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[cilantro]]
+arch = "x86_64"
+git-tree-sha1 = "75ed6412a481ee7ac2cafcc89f162041c3737075"
+os = "macos"
+
+    [[cilantro.download]]
+    sha256 = "9e0f4a7ca94b7c6e45f9cd53ee77f1476ee15488b9bd74d720b454a1ab4b3249"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[cilantro]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "360b23daa52116d9270df7d784422bc51c8b3faf"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "0949b69634a98d4d0bd87d1e868a6c3f4a3fbf0a9bf417dd739b20c2a6b5e67f"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[cilantro]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "867f6a5793183dafae6d609600d39846d07218ec"
+libc = "glibc"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "7513243b52497f6b4dfd1910e9f65f6415e1773f54eeb9c288a537f81f6040b6"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[cilantro]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2b1ec310cda88c9f7daa1e3f897aecf8a0dfbf15"
+libc = "musl"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "f104bfccbc55fe7f7c1eec3c128bde99b6b4762aa2d116e21229391367a96c25"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[cilantro]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b515228acee2914b71183beb2fab45af22ee3f9c"
+libc = "musl"
+os = "linux"
+
+    [[cilantro.download]]
+    sha256 = "1a49e93e22b219c22104517db9d04dc5e3ff68100a039b12b7c9c97dc1777b0c"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[cilantro]]
+arch = "x86_64"
+git-tree-sha1 = "11bfef333327acba5719bec719d5298246592ea0"
+os = "freebsd"
+
+    [[cilantro.download]]
+    sha256 = "d672f93ecf5890428df3b3e065ed2af65a98beb34b37231eb6193e4ccee65563"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[cilantro]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3dbae54dde071905e54563853b296979765a4c0c"
+os = "windows"
+
+    [[cilantro.download]]
+    sha256 = "e97c07c8c5132fa93c06c40f9e3f74c1b35d541798cb43e3c8c5a725cb9a5a11"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[cilantro]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "85f9e1a3ebb2da5dfabc43179bf0c4349bb7ecab"
+os = "windows"
+
+    [[cilantro.download]]
+    sha256 = "5e92beca2f8e8a8ce3287bb9dbffaf9c15c3e376b8caa3447f9b3eb96d6321bf"
+    url = "https://github.com/JuliaBinaryWrappers/cilantro_jll.jl/releases/download/cilantro-v0.1.0+0/cilantro.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
